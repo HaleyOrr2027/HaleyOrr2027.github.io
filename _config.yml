@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HaleyOrr.png"
   name             : "Haley Orr"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Engineering '27"
+  bio              : "Hi! I'm Haley and this is my academic portfolio. I'm a junior in Computer Engineering who loves digital logic and computer architecture. I hope to one day go into quantum computing."
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : # URL
